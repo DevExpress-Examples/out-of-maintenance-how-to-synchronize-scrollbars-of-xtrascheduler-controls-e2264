@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/TwoSchedulers/Form1.cs) (VB: [Form1.vb](./VB/TwoSchedulers/Form1.vb))
+<!-- default file list end -->
 # How to synchronize scrollbars of XtraScheduler controls
 
 
